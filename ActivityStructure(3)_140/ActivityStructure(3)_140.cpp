@@ -7,6 +7,11 @@ struct AlamatDetail
 	char kota[20];
 };
 struct Mahasiswa
+{
+	char nim[12];
+	char nama[25];
+	AlamatDetail alamat;
+};
 
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
