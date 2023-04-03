@@ -9,6 +9,12 @@ struct mahasiswa
     int umur;
 };
 
+
+int main()
+{
+   
+
+}
 int main()
 {
     std::cout << "Hello World!\n";
